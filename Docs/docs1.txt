@@ -1,3 +1,11 @@
+node- https://nodejs.org/en/download  >>> node v
+nvms node- https://www.nvmnode.com/   >>> nvm -v
+
+NVM Commands - Gist
+https://gist.github.com/chranderson/b0a02781c232f170db634b40c97ff455
+
+
+
 1. nvm verson  nvm install>>>use
 2. npm install typescript >>  npm install -g typescript  >>> tsc -v
 3.  tsc test.ts  >>>vs a  js file asbe...
