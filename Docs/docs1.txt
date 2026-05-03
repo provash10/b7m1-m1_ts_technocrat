@@ -1,0 +1,9 @@
+1. nvm verson  nvm install>>>use
+2. npm install typescript >>  npm install -g typescript  >>> tsc -v
+3.  tsc test.ts  >>>vs a  js file asbe...
+4. tsc --init >>ts config
+a. "rootDir": "./src",  for ts
+b.  "outDir": "./dist", for js
+c. terminal >> tsc >>> dist create....
+
+target >>>> change version  "target": "esnext",
