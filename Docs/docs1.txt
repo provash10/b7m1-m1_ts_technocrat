@@ -15,3 +15,8 @@ b.  "outDir": "./dist", for js
 c. terminal >> tsc >>> dist create....
 
 target >>>> change version  "target": "esnext",
+
+//for enum
+node --experimental-transform-types ./src/m2/enum2-8.ts
+
+tsc ./src/m2/enum2-8.ts
