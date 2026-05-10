@@ -1,5 +1,5 @@
 // node ./src/m3/polymorphism3-8.ts
-//OOP - 4 pillar a. inharitance, b. Polymorphism, c. Encapsulation, d. abstraction
+//OOP - 4 pillar a. inharitance, b. Polymorphism, c. abstraction, d. Encapsulation
 //b. Polymorphism  -- related with method
 
 class Person{
